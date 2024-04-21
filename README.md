@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i'm Amith Kumar JK
 
 <!--
 **amithjk6611/amithjk6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
